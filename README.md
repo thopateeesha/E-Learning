@@ -1,5 +1,7 @@
 # E-Learning Platform
 
+https://thopateeesha.github.io/E-Learning/
+
 A modern, responsive e-learning web application built with HTML and Tailwind CSS. This project provides a user-friendly interface for browsing courses, tracking progress, viewing course content, and managing user profiles.
 
 ## Features
